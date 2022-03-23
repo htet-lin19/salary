@@ -1,0 +1,205 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2015 by Sean Coady. All rights reserved.
+FontName Firefly
+FontSubfamily Regular
+UniqueID 1.000;pyrs;Firefly
+FullName Firefly
+Version Version 001.000
+PostScriptName Firefly
+Trademark Firefly is a trademark of Sean Coady.
+Manufacturer Sean Coady
+Designer Sean Coady
+Description Copyright (c) 2015 by . All rights reserved.
+FontVendorURL http://seancoady.ca
+FontDesignerURL http://seancoady.ca
+LicenseURL http://seancoady.ca
+CompatibleFullName 䙩牥晬
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 750
+Descender -250
+FontBBox -82 -214 1081 974
+StartCharMetrics 176
+U 32 ; WX 300 ; N space ; G 3
+U 33 ; WX 250 ; N exclam ; G 55
+U 34 ; WX 300 ; N quotedbl ; G 86
+U 35 ; WX 400 ; N numbersign ; G 84
+U 36 ; WX 330 ; N dollar ; G 83
+U 37 ; WX 460 ; N percent ; G 82
+U 38 ; WX 300 ; N ampersand ; G 64
+U 39 ; WX 120 ; N quotesingle ; G 85
+U 40 ; WX 300 ; N parenleft ; G 63
+U 41 ; WX 300 ; N parenright ; G 62
+U 42 ; WX 400 ; N asterisk ; G 88
+U 43 ; WX 420 ; N plus ; G 75
+U 44 ; WX 100 ; N comma ; G 74
+U 45 ; WX 380 ; N hyphen ; G 77
+U 46 ; WX 150 ; N period ; G 73
+U 47 ; WX 291 ; N slash ; G 57
+U 48 ; WX 310 ; N zero ; G 89
+U 49 ; WX 300 ; N one ; G 90
+U 50 ; WX 460 ; N two ; G 91
+U 51 ; WX 360 ; N three ; G 92
+U 52 ; WX 400 ; N four ; G 93
+U 53 ; WX 400 ; N five ; G 94
+U 54 ; WX 300 ; N six ; G 95
+U 55 ; WX 370 ; N seven ; G 96
+U 56 ; WX 340 ; N eight ; G 97
+U 57 ; WX 340 ; N nine ; G 98
+U 58 ; WX 160 ; N colon ; G 99
+U 59 ; WX 160 ; N semicolon ; G 172
+U 60 ; WX 400 ; N less ; G 71
+U 61 ; WX 380 ; N equal ; G 78
+U 62 ; WX 400 ; N greater ; G 70
+U 63 ; WX 280 ; N question ; G 52
+U 64 ; WX 400 ; N at ; G 56
+U 65 ; WX 550 ; N A ; G 24
+U 66 ; WX 540 ; N B ; G 22
+U 67 ; WX 380 ; N C ; G 20
+U 68 ; WX 500 ; N D ; G 18
+U 69 ; WX 450 ; N E ; G 16
+U 70 ; WX 630 ; N F ; G 14
+U 71 ; WX 450 ; N G ; G 12
+U 72 ; WX 500 ; N H ; G 10
+U 73 ; WX 410 ; N I ; G 8
+U 74 ; WX 370 ; N J ; G 6
+U 75 ; WX 550 ; N K ; G 4
+U 76 ; WX 400 ; N L ; G 175
+U 77 ; WX 750 ; N M ; G 173
+U 78 ; WX 500 ; N N ; G 26
+U 79 ; WX 380 ; N O ; G 28
+U 80 ; WX 500 ; N P ; G 30
+U 81 ; WX 450 ; N Q ; G 32
+U 82 ; WX 460 ; N R ; G 34
+U 83 ; WX 330 ; N S ; G 36
+U 84 ; WX 430 ; N T ; G 38
+U 85 ; WX 450 ; N U ; G 40
+U 86 ; WX 520 ; N V ; G 42
+U 87 ; WX 700 ; N W ; G 44
+U 88 ; WX 580 ; N X ; G 46
+U 89 ; WX 400 ; N Y ; G 48
+U 90 ; WX 420 ; N Z ; G 50
+U 91 ; WX 300 ; N bracketleft ; G 61
+U 92 ; WX 280 ; N backslash ; G 58
+U 93 ; WX 300 ; N bracketright ; G 60
+U 94 ; WX 400 ; N asciicircum ; G 59
+U 95 ; WX 650 ; N underscore ; G 87
+U 97 ; WX 500 ; N a ; G 25
+U 98 ; WX 460 ; N b ; G 23
+U 99 ; WX 380 ; N c ; G 21
+U 100 ; WX 500 ; N d ; G 19
+U 101 ; WX 450 ; N e ; G 17
+U 102 ; WX 440 ; N f ; G 15
+U 103 ; WX 450 ; N g ; G 13
+U 104 ; WX 500 ; N h ; G 11
+U 105 ; WX 350 ; N i ; G 9
+U 106 ; WX 370 ; N j ; G 7
+U 107 ; WX 550 ; N k ; G 5
+U 108 ; WX 400 ; N l ; G 171
+U 109 ; WX 750 ; N m ; G 174
+U 110 ; WX 500 ; N n ; G 27
+U 111 ; WX 380 ; N o ; G 29
+U 112 ; WX 500 ; N p ; G 31
+U 113 ; WX 450 ; N q ; G 33
+U 114 ; WX 475 ; N r ; G 35
+U 115 ; WX 330 ; N s ; G 37
+U 116 ; WX 430 ; N t ; G 39
+U 117 ; WX 450 ; N u ; G 41
+U 118 ; WX 520 ; N v ; G 43
+U 119 ; WX 700 ; N w ; G 45
+U 120 ; WX 580 ; N x ; G 47
+U 121 ; WX 400 ; N y ; G 49
+U 122 ; WX 420 ; N z ; G 51
+U 123 ; WX 380 ; N braceleft ; G 54
+U 124 ; WX 140 ; N bar ; G 72
+U 125 ; WX 300 ; N braceright ; G 53
+U 126 ; WX 560 ; N asciitilde ; G 79
+U 160 ; WX 300 ; N space ; G 3
+U 162 ; WX 833 ; N cent ; G 170
+U 163 ; WX 530 ; N sterling ; G 68
+U 165 ; WX 500 ; N yen ; G 67
+U 169 ; WX 500 ; N copyright ; G 65
+U 174 ; WX 500 ; N registered ; G 66
+U 192 ; WX 500 ; N Agrave ; G 110
+U 193 ; WX 500 ; N Aacute ; G 112
+U 194 ; WX 500 ; N Acircumflex ; G 114
+U 195 ; WX 500 ; N Atilde ; G 116
+U 196 ; WX 500 ; N Adieresis ; G 106
+U 197 ; WX 500 ; N Aring ; G 108
+U 198 ; WX 730 ; N AE ; G 104
+U 199 ; WX 290 ; N Ccedilla ; G 102
+U 200 ; WX 450 ; N Egrave ; G 120
+U 201 ; WX 450 ; N Eacute ; G 122
+U 202 ; WX 450 ; N Ecircumflex ; G 124
+U 203 ; WX 450 ; N Edieresis ; G 126
+U 204 ; WX 350 ; N Igrave ; G 128
+U 205 ; WX 350 ; N Iacute ; G 130
+U 206 ; WX 350 ; N Icircumflex ; G 132
+U 207 ; WX 350 ; N Idieresis ; G 134
+U 208 ; WX 460 ; N Eth ; G 100
+U 209 ; WX 500 ; N Ntilde ; G 136
+U 210 ; WX 380 ; N Ograve ; G 142
+U 211 ; WX 380 ; N Oacute ; G 144
+U 212 ; WX 380 ; N Ocircumflex ; G 146
+U 213 ; WX 380 ; N Otilde ; G 148
+U 214 ; WX 380 ; N Odieresis ; G 150
+U 215 ; WX 250 ; N multiply ; G 81
+U 216 ; WX 420 ; N Oslash ; G 152
+U 217 ; WX 450 ; N Ugrave ; G 156
+U 218 ; WX 450 ; N Uacute ; G 158
+U 219 ; WX 450 ; N Ucircumflex ; G 160
+U 220 ; WX 450 ; N Udieresis ; G 162
+U 221 ; WX 400 ; N Yacute ; G 164
+U 224 ; WX 500 ; N agrave ; G 111
+U 225 ; WX 500 ; N aacute ; G 113
+U 226 ; WX 500 ; N acircumflex ; G 115
+U 227 ; WX 500 ; N atilde ; G 117
+U 228 ; WX 500 ; N adieresis ; G 107
+U 229 ; WX 500 ; N aring ; G 109
+U 230 ; WX 730 ; N ae ; G 105
+U 231 ; WX 290 ; N ccedilla ; G 103
+U 232 ; WX 450 ; N egrave ; G 121
+U 233 ; WX 450 ; N eacute ; G 123
+U 234 ; WX 450 ; N ecircumflex ; G 125
+U 235 ; WX 450 ; N edieresis ; G 127
+U 236 ; WX 350 ; N igrave ; G 129
+U 237 ; WX 350 ; N iacute ; G 131
+U 238 ; WX 350 ; N icircumflex ; G 133
+U 239 ; WX 350 ; N idieresis ; G 135
+U 240 ; WX 460 ; N eth ; G 101
+U 241 ; WX 500 ; N ntilde ; G 137
+U 242 ; WX 380 ; N ograve ; G 143
+U 243 ; WX 380 ; N oacute ; G 145
+U 244 ; WX 380 ; N ocircumflex ; G 147
+U 245 ; WX 380 ; N otilde ; G 149
+U 246 ; WX 380 ; N odieresis ; G 151
+U 247 ; WX 250 ; N divide ; G 80
+U 248 ; WX 420 ; N oslash ; G 153
+U 249 ; WX 450 ; N ugrave ; G 157
+U 250 ; WX 450 ; N uacute ; G 159
+U 251 ; WX 450 ; N ucircumflex ; G 161
+U 252 ; WX 450 ; N udieresis ; G 163
+U 253 ; WX 400 ; N yacute ; G 165
+U 255 ; WX 400 ; N ydieresis ; G 166
+U 321 ; WX 400 ; N Lslash ; G 138
+U 322 ; WX 400 ; N lslash ; G 139
+U 338 ; WX 500 ; N OE ; G 140
+U 339 ; WX 500 ; N oe ; G 141
+U 352 ; WX 350 ; N Scaron ; G 154
+U 353 ; WX 350 ; N scaron ; G 155
+U 381 ; WX 420 ; N Zcaron ; G 167
+U 382 ; WX 420 ; N zcaron ; G 168
+U 8364 ; WX 500 ; N Euro ; G 69
+U 8482 ; WX 1100 ; N trademark ; G 169
+U 8722 ; WX 833 ; N minus ; G 76
+U 64257 ; WX 650 ; N fi ; G 118
+U 64258 ; WX 700 ; N fl ; G 119
+EndCharMetrics
+EndFontMetrics
